@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> a252037d06ed67f4cf30c116086c426123e9e31a
 ## 使用说明 ##
 
 呃，这是一款简单的邀请码系统，由麦田一根葱([www.yuxiaoxi.com][1])编写。
@@ -42,14 +38,4 @@
 
 
   [1]: http://www.yuxiaoxi.com/2013-07-04-yaoqingma.html
-<<<<<<< HEAD
   [2]: http://www.yuxiaoxi.com/2013-07-04-yaoqingma.html
-=======
-  [2]: http://www.yuxiaoxi.com/2013-07-04-yaoqingma.html
-=======
-yaogingma
-=========
-
-这是一款简单的邀请码系统，由麦田一根葱(www.yuxiaoxi.com)编写。可以轻松的在后台管理生成邀请码，生成的邀请码只能使用一次，验证信息是通过session存储在本地的，只要没删除，就不用重复验证。
->>>>>>> f2e6f2f2344fc2840190d360271e5e75e775d351
->>>>>>> a252037d06ed67f4cf30c116086c426123e9e31a
